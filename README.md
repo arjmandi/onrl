@@ -1,7 +1,7 @@
-# onrl
+# Evolution of Reinforcement Learning
 
-Evolution of Reinforcement Learning
- -made by chatgpt agent
+
+~ made by chatgpt agent
 
 ![evolution of RL](https://github.com/arjmandi/onrl/blob/c74c6b85ead3d25c6b10a17408eb02b1d1d6249c/evolution-of-rl.png)
 
